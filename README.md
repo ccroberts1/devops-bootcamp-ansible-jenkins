@@ -1,0 +1,2 @@
+# Configuring Jenkins Pipeline with Ansible
+This project created a simple pipeline for a Java-Maven app which runs an Ansible script on a remote Ansible server which installs Docker and Docker-Compose on 2 remote EC2 instances. 
